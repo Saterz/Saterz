@@ -2,7 +2,8 @@
 - 👀 I’m interested in Gaming, Books, Code and Rubick's Cube
 - 🌱 I’m currently learning JavaScript
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saterz)](https://github.com/anuraghazra/github-readme-stats)
+  Boring stats :
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saterz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Saterz/Saterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
