@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saterz
-- 👀 I’m interested in Gaming, Books, Code and Rubick's Cube
+- 👀 I’m interested in Gaming, Books, Code and Music
 - 🌱 I’m currently learning JavaScript
 
   Boring stats :
