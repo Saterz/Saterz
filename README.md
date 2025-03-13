@@ -3,14 +3,14 @@
 <!-- ![Your Name's Banner](https://i.imgur.com/yourimage.png) -->
 
 ## 🧑‍💻 About Me  
-🎂 15 y/o | 🚀 Tech Enthusiast
+🎂 15 yo | 🚀 Tech Enthusiast
 
 Hey! I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But I'm infected by the deadly virus of ✨**procrastination**✨. If I manage to beat this disease my goal is to **code apps/services that are actually useful**.  
 
 📚 Currently learning **Javascript and Kotlin**.      
 🗃️ I want to learn **C++, **      
 💡 Interested in **AI, phones and cool websites**.      
-🎮 Fun Fact: I'm from the Carribean and **I** ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ **LOVE** ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ **BLUR**, idk why tho.  
+🎮 Fun Fact: I'm from the French Islands of the Carribean and **I ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LOVE ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ BLUR**, idk why tho.  
 
 ---
 
