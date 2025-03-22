@@ -20,7 +20,7 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 [![My Languages](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)           
 
 ### 🔧 Tools & Frameworks  
-[![My Tools](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)      
+[![My Tools](https://skillicons.dev/icons?i=github,vscode,discord,linux)](https://skillicons.dev)      
 
 ---
 
