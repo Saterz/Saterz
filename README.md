@@ -8,7 +8,7 @@
 I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But I'm infected by the deadly virus of ✨**procrastination**✨. If I manage to beat this disease my goal is to **code apps/services that are actually useful**.  
 
 📚 Currently learning **Kotlin**.      
-🗃️ I want to learn **C, Svelte, React Native**      
+🗃️ I want to learn **C, Svelte and React Native**.      
 💡 Interested in **AI, phones and cool websites**.      
 🎮 Fun Fact: I'm from the French Islands of the Carribean and **I ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LOVE ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ BLUR**, idk why tho.  
 
