@@ -17,7 +17,7 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 ## 🛠 Tech Stack  
 
 ### 💻 Languages  
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)           
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,py,powershell,bash,git)](https://skillicons.dev)           
 
 ### 🔧 Tools & Frameworks  
 [![My Tools](https://skillicons.dev/icons?i=github,vscode,discord,linux)](https://skillicons.dev)      
