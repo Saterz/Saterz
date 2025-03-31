@@ -30,6 +30,9 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 ## 📌 **Top Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saterz&layout=compact&theme=radical)  
 
+## 👀 **Profile views**
+![](https://komarev.com/ghpvc/?username=saterz)
+
 ---
 
 ## 🔗 My Website  
