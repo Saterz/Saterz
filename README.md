@@ -43,3 +43,5 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 💙 _"The one who has a mouth does not get lost."_ 🚀  
 
 ---
+
+![](https://hit.yhype.me/github/profile?account_id=136126641)
