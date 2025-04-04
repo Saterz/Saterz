@@ -36,7 +36,7 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 ---
 
 ## 🔗 My Website  
-🌎 [saterz.github.io](https://saterz.github.io)
+🌎 [saterz.dev](https://saterz.dev)
 
 ---
 
