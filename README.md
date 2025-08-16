@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me  
 🎂 15 yo | 🚀 Tech Enthusiast
 
-I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But I'm infected by the deadly virus of ✨**procrastination**✨. If I manage to beat this disease my goal is to **code apps/services that are actually useful**.  
+I'm **Saterz**, a young developer passionate about **coding, tech, and AI**.  
 
 📚 Currently learning **Kotlin and C**.      
 🗃️ I want to learn **React Native, Lua and C++**.      
@@ -37,7 +37,7 @@ I'm **Saterz**, a young developer passionate about **coding, tech, and AI**. But
 
 ---
 
-💙 _"The one who has a mouth does not get lost."_ 🚀  
+ _"The one who has a mouth does not get lost."_    
 
 ---
 
