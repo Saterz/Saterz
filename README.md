@@ -3,7 +3,7 @@
 <!-- ![Your Name's Banner](https://i.imgur.com/yourimage.png) -->
 
 ## 🧑‍💻 About Me  
-🎂 15 yo | 🚀 Tech Enthusiast
+🎂 16 yo | 🚀 Tech Enthusiast
 
 I'm **Saterz**, a young developer passionate about **coding, tech, and AI**.  
 
