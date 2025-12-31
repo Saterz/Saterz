@@ -28,7 +28,8 @@ I'm **Saterz_**, a young developer passionate about **coding, tech, and AI**.
 
 ---
 
-## My Website   [saterz.dev](https://saterz.dev)
+## My Website:   
+[saterz.dev](https://saterz.dev)
 
 ---
 
