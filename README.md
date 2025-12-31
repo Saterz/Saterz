@@ -1,44 +1,37 @@
 # **Hey there! I'm Saterz** 👋  
 
-<!-- ![Your Name's Banner](https://i.imgur.com/yourimage.png) -->
+## About Me  
 
-## 🧑‍💻 About Me  
-🎂 16 yo | 🚀 Tech Enthusiast
+I'm **Saterz_**, a young developer passionate about **coding, tech, and AI**.  
 
-I'm **Saterz**, a young developer passionate about **coding, tech, and AI**.  
-
-📚 Currently learning **Kotlin and C**.      
-🗃️ I want to learn **React Native, Lua and C++**.      
-💡 Interested in **AI, phones and cool websites**.      
-🎮 Fun Fact: I'm from the French Islands of the Carribean and **I ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ LOVE ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ BLUR**, idk why tho.  
+- Currently learning **C**.      
+- I want to learn **React Native, Lua, Kotlin,and C++**.      
+- Interested in **AI, phones and cool websites**.      
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
-### 💻 Languages  
-[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,bash,git,postgresql,c,kotlin)](https://skillicons.dev)           
+### Languages  
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,git,postgresql,c)](https://skillicons.dev)           
 
-### 🔧 Tools & Frameworks  
+### Tools & Frameworks  
 [![My Tools](https://skillicons.dev/icons?i=github,vscode,discord,linux,svelte)](https://skillicons.dev)      
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saterz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📌 **Top Languages**  
+## Top Languages   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saterz&layout=compact&theme=radical)     
 
 ---
 
-## 🔗 My Website  
-🌎 [saterz.dev](https://saterz.dev)
+## My Website   [saterz.dev](https://saterz.dev)
 
 ---
 
- _"The one who has a mouth does not get lost."_    
-
----
+ _"The one who has a mouth does not get lost."_     
 
 ![](https://hit.yhype.me/github/profile?account_id=136126641)
